@@ -4,7 +4,7 @@
 https://www.geeksforgeeks.org/problems/sum-of-diagonals-1587115621/1
 
 ## Problem Statement
-Given a square of matrix M of size N*N. Your task is to compute and return sum of principal diagonal elements of matrix. You have to complete the function diagonalSum() which accepts N (size of matrix, N*N) and matrix M[ ][ ] as arguments.
+Given a square of matrix M of size N * N. Your task is to compute and return sum of principal diagonal elements of matrix. You have to complete the function diagonalSum() which accepts N (size of matrix, N*N) and matrix M[ ][ ] as arguments.
 
 ---
 
