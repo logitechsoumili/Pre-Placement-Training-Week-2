@@ -4,8 +4,8 @@
 https://www.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1
 
 ## Problem Statement
-
 Given a N X N binary Square Matrix where each row and column of the matrix is sorted in ascending order. Find the total number of zeros present in the matrix.
+
 ---
 
 ## Code
