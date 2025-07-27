@@ -17,7 +17,7 @@ Filename: [`solution.c`](./solution.c)
 #include <stdio.h>
 
 int main(){
-	int m, n;
+	int n;
 	printf("Enter size of square matrix: ");
 	scanf("%d", &n);
 	int arr[n][n];
